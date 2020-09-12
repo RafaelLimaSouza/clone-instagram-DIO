@@ -1,0 +1,14 @@
+GIT
+
+Git bash - Programa para sincronizar pasta local com git
+
+Commit - Comando para copiar os dados local para o bash
+e posterior enviar ao repostiório git
+
+$git add .
+$git commit -m "Meu primeiro commit para página com
+html5 e css3"
+
+
+$git push origin master
+autenticação com usuário e senha
